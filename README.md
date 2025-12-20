@@ -87,10 +87,10 @@ NUMBER_HABITABLE_ROOMS
 NUMBER_HEATED_ROOMS
 LOW_ENERGY_LIGHTING - What does this mean? 
 NUMBER_OPEN_FIREPLACES 
-HOTWATER_DESCRIPTION - Remove as unclean? 
+HOTWATER_DESCRIPTION - 
 HOT_WATER_ENERGY_EFF - Encode and keep!
 HOT_WATER_ENV_EFF - What is this?
-FLOOR_DESCRIPTION - Remove as unclean
+FLOOR_DESCRIPTION -
 FLOOR_ENERGY_EFF - Mostly unavailable. See % first.
 FLOOR_ENV_EFF - What is this?
 WINDOWS_DESCRIPTION - Could be grouped then encoded?
