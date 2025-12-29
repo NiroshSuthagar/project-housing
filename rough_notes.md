@@ -65,7 +65,7 @@ NA PERCENTAGE:
 10% -> 61 Cols
 
 NA Fillers:
-Look at imputing strategy
+Look at imputing strategy. Median works best for skewed data!
 
 For Skewed Data: 
 - Fill with median
