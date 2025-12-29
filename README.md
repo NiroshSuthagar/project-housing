@@ -22,7 +22,7 @@ Merged Data Dictionary (118 Columns):
 Unnamed: 0
 unique_id - Not needed (better to de-identify)
 price_paid
-deed_date - Date of sale??
+x - Date of sale??
 postcode - Remove
 property_type - Important: Encode
 new_build - Delete (as only NON new builds)
