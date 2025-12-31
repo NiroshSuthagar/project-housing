@@ -70,4 +70,10 @@ Look at imputing strategy. Median works best for skewed data!
 For Skewed Data: 
 - Fill with median
 
-
+Core Features For Agentic Frameworks to focus on:
+1HE_district
+1HE_PROPERTY TYPE
+1HE_BUILT_FORM
+CORE_TOTAL_FLOOR_AREA
+CORE_EXTENSION_COUNT
+CORE_NUMBER_OF_HABITABLE_ROOMS
