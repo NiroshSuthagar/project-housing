@@ -77,3 +77,6 @@ Core Features For Agentic Frameworks to focus on:
 CORE_TOTAL_FLOOR_AREA
 CORE_EXTENSION_COUNT
 CORE_NUMBER_OF_HABITABLE_ROOMS
+
+1HE Drop IMPORTANT:
+- 1HE drops of one of the features is only important for Linear Models due to colinearity. XGBoost doesn't get impacted as much. SEE WHY and WRITE.
