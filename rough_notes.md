@@ -80,3 +80,11 @@ CORE_NUMBER_OF_HABITABLE_ROOMS
 
 1HE Drop IMPORTANT:
 - 1HE drops of one of the features is only important for Linear Models due to colinearity. XGBoost doesn't get impacted as much. SEE WHY and WRITE.
+
+NEST STEPS: 
+- Evaluate OpenAI preds for Batch 0. 
+- Establish whether it's worth testing the rest or we do an early stop. 
+- Try building the same but with RAG.
+- Evaluate Advanced Models
+- Write Up Methodlogy Section
+- FINAL TWEAK FOR ALL MODELS AND RETEST! 
