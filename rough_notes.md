@@ -131,3 +131,66 @@ SQL Agent Prompt (FAIL):
         SELECT <Criteria>
         FROM masterRAG 
         LIMIT 10
+
+NEXT STEPS (FINAL DAY):
+
+- Current Status: All three models are working with a performance score!! 
+- Naive Model: Create loop to run on more chunks and track error metrics
+	- 17min per chunk so 22 chunks in 6 hours.
+	- Or do 10 chunks so 1000 records tested!  
+- Advanced Model: Run overnight for 1h/chunk spread
+	- Run 5 chunks so 500 records tested. 
+
+- Experimentation runs: 
+	- XG Boost: Run hyperparameter tuning and track error metrics/models.
+		- Track as experiments 
+	- Naive Model: Test at least 3 prompts.
+		- Store results as experiements.
+	- Advanced Model: 
+		- Keep it the same but test chunk performance for 5-10 chunks? 
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
