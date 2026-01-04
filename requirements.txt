@@ -4,3 +4,9 @@ pandas==2.1.4
 scikit-learn==1.8.0
 shap==0.49.1
 matplotlib==3.9.2
+openai
+duckdb
+sqlalchemy
+python-totenv
+scikit-learn
+tqdm
